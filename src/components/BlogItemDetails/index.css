@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blog-item-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-left: 80px;
+  margin-right: 10px;
+}
+.image1 {
+  width: 95%;
+}
